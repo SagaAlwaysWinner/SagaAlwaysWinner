@@ -2,7 +2,7 @@
 
 ### Hi İm There Saga <img src="https://cdn.discordapp.com/emojis/881601062522454036.png?v=1" height="20px"></h2>
 
-<p align="left">Selam, Ben Adoncia Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
+<p align="left">Selam, Ben Saga Discord Botları Yapıyorum Sende Ücretli Şekilde Discord Botu Yaptırabilirsin
 
 
 ### Software Languages
